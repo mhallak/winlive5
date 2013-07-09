@@ -38,7 +38,7 @@ Boolean const isSSM = False;
 #endif
 
 // To set up an internal RTSP server, uncomment the following:
-//#define IMPLEMENT_RTSP_SERVER 1
+#define IMPLEMENT_RTSP_SERVER 1
 // (Note that this RTSP server works for multicast only)
 
 #ifdef IMPLEMENT_RTSP_SERVER
@@ -57,7 +57,7 @@ struct sessionState_t {
   Groupsock* rtcpGroupsock;
 } sessionState;
 
-char const* inputFileName = "test.mp3";
+char const* inputFileName = "Macao.mp3";
 
 void play(); // forward
 
