@@ -1,0 +1,9 @@
+[submodule "liveMedia"]
+	path = liveMedia
+	url = C:/Users/GITLAB/git/live/liveMedia
+[submodule "BasicUsageEnvironment"]
+	path = BasicUsageEnvironment
+	url = C:/Users/GITLAB/git/live/BasicUsageEnvironment
+[submodule "UsageEnvironment"]
+	path = UsageEnvironment
+	url = C:/Users/GITLAB/git/live/UsageEnvironment
