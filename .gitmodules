@@ -7,3 +7,6 @@
 [submodule "UsageEnvironment"]
 	path = UsageEnvironment
 	url = C:/Users/GITLAB/git/live/UsageEnvironment
+[submodule "groupsock"]
+	path = groupsock
+	url = C:/Users/GITLAB/git/live/groupsock
