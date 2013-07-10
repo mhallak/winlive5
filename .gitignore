@@ -1,7 +1,7 @@
-*.suo
 *.o
-
 *.opensdf
+*.sdf
+
 
 #ignore thumbnails created by windows
 Thumbs.db
@@ -16,6 +16,7 @@ Thumbs.db
 *_i.c
 *_p.c
 *.ncb
+*.suo
 *.tlb
 *.tlh
 *.bak
@@ -30,5 +31,3 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
-*.sdp
-*vcxproj*
