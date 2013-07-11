@@ -1,12 +1,12 @@
 [submodule "liveMedia"]
 	path = liveMedia
-	url = C:/Users/GITLAB/git/live/liveMedia
+	url = https://github.com/mhallak/l5liveMedia.git
 [submodule "BasicUsageEnvironment"]
 	path = BasicUsageEnvironment
-	url = C:/Users/GITLAB/git/live/BasicUsageEnvironment
+	url = https://github.com/mhallak/l5BasicUserEnvironment.git
 [submodule "UsageEnvironment"]
 	path = UsageEnvironment
-	url = C:/Users/GITLAB/git/live/UsageEnvironment
+	url = https://github.com/mhallak/l5UsageEnvironment.git
 [submodule "groupsock"]
 	path = groupsock
-	url = C:/Users/GITLAB/git/live/groupsock
+	url = https://github.com/mhallak/l5groupsock.git
