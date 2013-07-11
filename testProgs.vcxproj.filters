@@ -18,7 +18,7 @@
     <None Include="playCommon.hh" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="testMP3Receiver.cpp">
+    <ClCompile Include="testMP3Streamer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
