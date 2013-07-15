@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
   rtspServer->addServerMediaSession(sms);
 
   char* url = rtspServer->rtspURL(sms);
-  *env << "Play this stream using the URL \"" << url << "\"\n";
+  *env << "Play this stream using the great URL \"" << url << "\"\n";
   delete[] url;
 #endif
 
